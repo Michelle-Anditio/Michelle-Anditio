@@ -118,8 +118,8 @@ XGBoost · NumPy · AI API Integration
   
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michelle-anditio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michelle.anditio6@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:40E0D0,50:FF69B4,100:9146FF&height=100&section=footer" width="100%"/>
 </div>
